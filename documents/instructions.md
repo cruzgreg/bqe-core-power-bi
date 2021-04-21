@@ -69,13 +69,11 @@ To use Power BI with Core:
 
 11. Click Sign In. You will be prompted to log into Core.
 
-
    ![Login](media/core-bi-11.png) 
 
 12. On the Log In screen, enter your Core Email and Password. Click Log in.
 
 13. You are prompted to select your Core company file. Click Grant Permission.
-
 
    ![Grant Permissions](media/core-bi-13.png) 
 
