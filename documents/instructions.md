@@ -81,4 +81,4 @@ To use Power BI with Core:
 
 15. Look at the Objects to get the fields; if they are filterable, look for [] that denotes the field can be expanded.
 
-For more information, see [Core Help Center](https://corehelpcenter.bqe.com/hc/en-us/articles/360061565354-Core-Microsoft-Power-BI-integration).
+
