@@ -68,6 +68,7 @@ To use Power BI with Core:
 10. Select BQEDataConnector in the list (if it does not show up, then it is not saved in the correct Documents folder) and click Connect.
 
 11. Click Sign In. You will be prompted to log into Core.
+
    ![Login](media/core-bi-11.png) 
 
 12. On the Log In screen, enter your Core Email and Password. Click Log in.
